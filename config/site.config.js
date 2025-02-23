@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Pol's Website',
-      link: 'https://www.youtube.com/watch?v=xvFZjo5PgG0',
+      name: 'Site ni Pol',
+      link: 'about:blank',
     },
   ],
 
